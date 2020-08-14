@@ -1,19 +1,15 @@
-Hello World!
-=============
+# Hello World
 
-> Inspired by [The Hello World Collection](https://helloworldcollection.github.io/).
-
-#### Hello world in every computer language.
+Hello world in every computer language.
 
 As I watch the collection expand, this project has blown up more than I ever thought possible.
-Thanks to everyone who continues to contribute, new languages are created every day!
+Thanks to everyone who continues to contribute; new languages are created every day!
 
 Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contributing to the project!
 
-Spin-Off project smartly suggested and implemented by [@zenware](https://github.com/zenware):  
-Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-world](https://github.com/leachim6/hello-world).
+<!--Languages start-->
+## Languages (670 total)
 
-### This repository currently contains "Hello World" programs in the following languages:
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
 * [1C Enterprise](%23/1c-enterprise)
@@ -29,6 +25,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Μλ](%23/%CE%BC%CE%BB)
 * [قلب](%23/%D9%82%D9%84%D8%A8)
 * [なでしこ](%23/%E3%81%AA%E3%81%A7%E3%81%97%E3%81%93.nako)
+* [ひまわり](%23/%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A.hmw)
 * [文言](%23/%E6%96%87%E8%A8%80.wy)
 * [易语言](%23/%E6%98%93%E8%AF%AD%E8%A8%80.e)
 * [上海话](s/%u4E0A%u6D77%u8BDD.shanghai)
@@ -43,7 +40,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Actionscript2](a/actionscript2.as)
 * [Actionscript3](a/actionscript3.as)
 * [Actionscript Flashmx](a/actionscript_flashmx.as)
-* [Ada](a/ada.ada)
+* [Ada](a/ada.adb)
 * [Advpl](a/advpl)
 * [Aeolbonn](a/Aeolbonn.aeo)
 * [Aeolbonn](a/aeolbonn.aeolbonn)
@@ -113,6 +110,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Assembler Z80 Knightos](a/assembler_z80_knightos.asm)
 * [Assembler Z80 Ti83Calculator](a/assembler_z80_ti83calculator.asm)
 * [Assembler Z80 Zxspectrum](a/assembler_z80_zxspectrum.asm)
+* [Ats2](a/ATS2.dats)
 * [Attache](a/Attache.%40)
 * [Autohotkey](a/autohotkey.ahk)
 * [Autoit](a/autoit.au3)
@@ -120,8 +118,10 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Awful](a/awful.yuk)
 * [Awk](a/awk.awk)
 * [B](b/B.b)
+* [BAIK](b/baik.ina)
 * [Ballerina](b/ballerina.bal)
 * [Bash](b/bash.bash)
+* [Basic 256](b/basic-256.kbs)
 * [Basic](b/basic.bas)
 * [Batch](b/batch.bat)
 * [Batch](b/batch.cmd)
@@ -157,13 +157,12 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Byter](b/byter.byter)
 * [Locomotive Basic](b/locomotive-basic.b)
 * [C++](c/c%2B%2B.cpp)
-* [C++98](c/c%2B%2B98.cpp)
 * [C](c/c.c)
-* [C90](c/c90.c)
 * [Caml](c/caml.ml)
 * [Cardinal](c/cardinal.cardinal)
 * [Casio Basic](c/Casio%20BASIC)
 * [Cat](c/cat.cat)
+* [Cbot](c/cbot.txt)
 * [Cduce](c/cduce.cduce)
 * [Centura](c/centura.centura)
 * [Ceylon](c/ceylon.ceylon)
@@ -241,12 +240,14 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Emmental](e/emmental.emmental)
 * [Emojicode](e/emojicode.emojic)
 * [Emoticon](e/emoticon.emoticon)
+* [Enkelt](e/enkelt.e)
 * [Eoool](e/EOOOL.eoool)
 * [Erlang](e/erlang.erl)
 * [Erlang Escript](e/erlang_escript.erl)
 * [Euphoria](e/euphoria.ex)
 * [Express](e/express.js)
 * [Factor](f/factor.factor)
+* [Factors](f/factors.fact)
 * [Falcon](f/falcon.fal)
 * [False](f/false.f)
 * [Fancy](f/fancy.fy)
@@ -257,6 +258,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Fim++](f/fim%2B%2B.fimpp)
 * [Fish](f/fish.fish)
 * [Fjoelnir](f/fjoelnir.fjo)
+* [Flascript](f/flascript.fls)
 * [Flask](f/flask.py)
 * [Fob](f/fob.fob)
 * [Focal](f/focal.fc)
@@ -269,6 +271,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Fortran77](f/fortran77.f77)
 * [Fourier](f/fourier.fourier)
 * [Fractran++](f/fractran%2B%2B.fpp)
+* [Freebrain](f/freebrain.frbr)
 * [Frink](f/frink.frink)
 * [Fsharp](f/fsharp.fs)
 * [Fstar](f/fstar.fst)
@@ -394,6 +397,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Mel](m/mel.mel)
 * [Meq](m/meq.meq)
 * [Mercury](m/mercury.m)
+* [Milkscript](m/milkscript.milk)
 * [Minecraft](m/minecraft)
 * [Mips](m/mips.s)
 * [Mirc](m/mirc.mrc)
@@ -485,7 +489,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Profan](p/profan)
 * [Prolog](p/prolog.pro)
 * [Promela](p/promela.pml)
-* [ProvideX](p/providex.vim)
+* [Providex](p/providex.vim)
 * [Pug](p/pug.pug)
 * [Pure Data](p/pure_data.pd)
 * [Purebasic](p/purebasic.pb)
@@ -497,16 +501,19 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Qbasic](q/Qbasic.bas)
 * [Qcl](q/qcl.qcl)
 * [Qore](q/qore.q)
+* [Qsharp](q/qsharp.qs)
 * [Qu](q/qu.qu)
 * [Quakec](q/QuakeC.qc)
 * [Quartzcomposer](q/QuartzComposer.qtz)
 * [Qugord](q/qugord.qugord)
+* [Quorum](q/quorum.quorum)
 * [Qwerty](q/qwerty.qwerty)
 * [R](r/R.R)
 * [Racket](r/racket.rkt)
 * [Radixal](r/radixal.radixal)
 * [Ratfor](r/ratfor.ratfor)
 * [React](r/react.js)
+* [React360](r/react360.js)
 * [Readlink](r/readlink.readlink)
 * [Realbasic](r/realbasic.realbasic)
 * [Reason](r/reason.re)
@@ -619,6 +626,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Umajin](u/umajin.u)
 * [Unicomal](u/unicomal.lst)
 * [Unlambda](u/unlambda.unl)
+* [Unreadable](u/unreadable.unreadable)
 * [V](v/V)
 * [V](v/v.v)
 * [Vala](v/vala.vala)
@@ -670,9 +678,16 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Zbd](z/zbd)
 * [Zepto](z/zepto.zp)
 * [Zetaplex](z/zetaplex.zeta)
+* [Ziim](z/ziim.ziim)
 * [Zim](z/zim.zim)
 * [Zimbu](z/zimbu.zu)
 * [Zinc](z/zinc.zn)
 * [Zombie](z/zombie.zombie)
 * [Zonnon](z/zonnon.znn)
 * [Zsh](z/zsh.zsh)
+<!--Languages end-->
+
+## Related
+
+- [FizBuzz](https://github.com/zenware/FizzBuzz)
+- [The Hello World Collection](https://helloworldcollection.github.io/).
