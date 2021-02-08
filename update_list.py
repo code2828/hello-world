@@ -28,7 +28,13 @@ result = f"""<!--Languages start-->
 
 {languagesText}<!--Languages end-->"""
 
+<<<<<<< HEAD
 readmeContents = open('readme.md', 'r', encoding="utf-8").read()
 
 open('readme.md', 'w', encoding="utf-8").write(regexReplace(
+=======
+readmeContents = open('README.md', 'r', encoding="utf-8").read()
+
+open('README.md', 'w', encoding="utf-8").write(regexReplace(
+>>>>>>> 650e43f2adbb7558d5367e8865662ffaba528374
     readmeContents, r"<!--Languages start-->(.|\n)*<!--Languages end-->", result))

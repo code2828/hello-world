@@ -8,7 +8,11 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
+<<<<<<< HEAD:readme.md
 ## Languages (736 total)
+=======
+## Languages (670 total)
+>>>>>>> 650e43f2adbb7558d5367e8865662ffaba528374:README.md
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -54,6 +58,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [ひまわり](%23/%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A.hmw)
 * [文言](%23/%E6%96%87%E8%A8%80.wy)
 * [易语言](%23/%E6%98%93%E8%AF%AD%E8%A8%80.e)
+* [上海话](s/%u4E0A%u6D77%u8BDD.shanghai)
 * [A++](a/a%2B%2B)
 * [Abap](a/abap.abap)
 * [Abc](a/abc.abc)
@@ -146,7 +151,11 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Awful](a/awful.yuk)
 * [Awk](a/awk.awk)
 * [B](b/B.b)
+<<<<<<< HEAD:readme.md
 * [Baik](b/BAIK.ina)
+=======
+* [BAIK](b/baik.ina)
+>>>>>>> 650e43f2adbb7558d5367e8865662ffaba528374:README.md
 * [Ballerina](b/ballerina.bal)
 * [Bash](b/bash.bash)
 * [Basic 256](b/basic-256.kbs)
@@ -187,7 +196,10 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Byter](b/byter.byter)
 * [C++](c/c%2B%2B.cpp)
 * [C](c/c.c)
+<<<<<<< HEAD:readme.md
 * [Cache Objectscript](c/cache-objectscript.mac)
+=======
+>>>>>>> 650e43f2adbb7558d5367e8865662ffaba528374:README.md
 * [Caml](c/caml.ml)
 * [Cardinal](c/cardinal.cardinal)
 * [Casio Basic](c/Casio%20BASIC)
@@ -686,6 +698,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Unicomal](u/unicomal.lst)
 * [Uniface](u/Uniface.uniface)
 * [Unlambda](u/unlambda.unl)
+* [Unreadable](u/unreadable.unreadable)
 * [V](v/V)
 * [V](v/v.v)
 * [Vala](v/vala.vala)
@@ -738,7 +751,11 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Zbd](z/zbd)
 * [Zepto](z/zepto.zp)
 * [Zetaplex](z/zetaplex.zeta)
+<<<<<<< HEAD:readme.md
 * [Zig](z/zig.zig)
+=======
+* [Ziim](z/ziim.ziim)
+>>>>>>> 650e43f2adbb7558d5367e8865662ffaba528374:README.md
 * [Zim](z/zim.zim)
 * [Zimbu](z/zimbu.zu)
 * [Zinc](z/zinc.zn)
@@ -750,5 +767,10 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 
 ## Related
 
+<<<<<<< HEAD:readme.md
 - [FizzBuzz](https://github.com/zenware/FizzBuzz)
 - [The Hello World Collection](https://helloworldcollection.github.io/)
+=======
+- [FizBuzz](https://github.com/zenware/FizzBuzz)
+- [The Hello World Collection](https://helloworldcollection.github.io/).
+>>>>>>> 650e43f2adbb7558d5367e8865662ffaba528374:README.md

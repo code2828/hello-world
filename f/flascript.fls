@@ -1,4 +1,10 @@
 main() -> main {
+<<<<<<< HEAD
 	print(string) -> "Hello World"
 	print(newline)
 } main;
+=======
+print(string) -> "Hello World"
+print(newline)
+}
+>>>>>>> 650e43f2adbb7558d5367e8865662ffaba528374

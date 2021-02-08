@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 /tellraw @p "Hello World"
+=======
+tellraw @a ["",{"text":"Hello World"}]
+>>>>>>> 650e43f2adbb7558d5367e8865662ffaba528374
